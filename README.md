@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: [https://main--universal-editor-instance--irenelagno.aem.page/](https://main--universal-editor-instance--irenelagno.aem.page/)
+- Live: [https://main--{repo}--{owner}.aem.live/](https://main--universal-editor-instance--irenelagno.aem.live/)
 
 ## Documentation
 
